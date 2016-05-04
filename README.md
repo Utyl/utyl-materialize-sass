@@ -1,6 +1,6 @@
-== Utyl - Materialize SASS
+#Utyl - Materialize SASS
 
-This project is a tool developed by [Utyl](www.utyl.com.br), so any developer can compile a materialize.css and select the colors.
+This project is a tool developed by [Utyl](http://www.utyl.com.br), so any developer can compile a materialize.css and select the colors.
 
 The selectable colors are the default ones used in [Materialize](http://materializecss.com/)
 And the related components are the mainly ones.

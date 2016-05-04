@@ -1,28 +1,11 @@
-== README
+== Utyl - Materialize SASS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a tool developed by [Utyl](www.utyl.com.br), so 
+ any developer can compile a materialize.css and select the colors.
 
-Things you may want to cover:
+The selectable colors are the default ones used in [Materialize](http://materializecss.com/)
+And the related components are the mainly ones.
+ 
+Your suggestions are welcome at any time!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+If you want to give it a try: [Click here (:](http://warm-ocean-54862.herokuapp.com/)
